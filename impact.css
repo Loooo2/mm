@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'PyeongChangPeace-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/PyeongChangPeace-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GangwonEduPowerExtraBoldA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/GangwonEduPowerExtraBoldA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.a{
+    font-family: 'PyeongChangPeace-Bold';
+    font-size: 50px;
+    text-align: center;
+    top: 3cm;
+    color: white;
+}
+.ab{
+    position: relative;
+    left:  29cm;
+    top: 2.7cm;
+    font-size: 30px;
+    font-family: 'GangwonEduPowerExtraBoldA';
+    color: white;
+}
+.ac{
+    position: relative;
+    top: 1cm;
+    left: 6cm;
+    font-size: 30px;
+    font-family: 'GangwonEduPowerExtraBoldA';
+    color: white;
+}
+body {
+    background-color: rgb(39, 39, 39);
+}
+.ad{
+    position: relative;
+    top: 1cm;
+    left:  24.5cm;
+    width: 15cm;
+}
+.ae{
+    position: relative;
+    top: -5cm;
+    left: -10.4cm;
+    width: 10cm;
+}
+.af{
+    font-family: 'GangwonEduPowerExtraBoldA';
+    text-align: center;
+    color: white;
+}
